@@ -397,8 +397,6 @@ El uso de variables de entorno es lo único que te falta por aprender de los pri
 
 _¡Felicidades! haz completado esta sección del Curso Básico de GitHub Actions de Platzi 💚_
 
-<img src=TBD-celebrate-image alt=celebrate width=300 align=right>
-
 Ya conoces los principales conceptos para crear workflows que te sirvan para automatizar todo tipo de tareas incluidas las de integración y despliegue continúo.
 
 Has aprendido sobre:
