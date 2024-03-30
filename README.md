@@ -425,9 +425,9 @@ Has aprendido sobre:
 
 <!--
   <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link. 
+  Add a link to get support, GitHub status page, code of conduct, license link.
 -->
 
 ---
 
-&copy; 2024 Platzi &bull; [Código de Conducta](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [CC-BY-4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode)
+&copy; 2023 Platzi &bull; [Código de Conducta](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [CC-BY-4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode)
